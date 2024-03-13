@@ -1,4 +1,4 @@
-### Pour démarrer le jeu, il faut lancer le fichier DifficultySelection.java.
+Pour démarrer le jeu, il faut lancer le fichier DifficultySelection.java.
 
 # Structure du Projet
 
@@ -57,7 +57,7 @@ Cette classe utilise le modèle de conception Singleton pour stocker les options
 Cette classe contient des tests unitaires.
 
 
-# Voici le texte mis en forme en Markdown avec chaque ligne dans un tableau et les colonnes "Fait ou Pas Fait" et "Observation" ajoutées :
+Voici le texte mis en forme en Markdown avec chaque ligne dans un tableau et les colonnes "Fait ou Pas Fait" et "Observation" ajoutées :
 
 | Tâche | Fait ou Pas Fait | Observation                                                           |
 |-------|------|-----------------------------------------------------------------------|
